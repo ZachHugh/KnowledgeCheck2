@@ -1,0 +1,47 @@
+Email: 
+  hugheszachary109@gmail.com
+
+What is the original keyword used to declare a variable in JavaScript? *:
+  var
+
+Which two keywords should be used to declare variables in modern JavaScript?
+ *
+Answer using comma-separated values  (e.g. one, two):
+  const, let
+
+Variables declared with which keyword(s) CAN be re-assigned a new value? *
+For example: If the value of x is 5, it can be changed to 6:
+  let, var
+
+Variables declared with which keyword(s) CANNOT be re-assigned a new value?
+ *
+For example: If the value of x is 5, it cannot be changed to 6:
+  const
+
+Which of the following data types are considered primitive values? *
+Select all that apply:
+  string, boolean, number, undefined, null, bigint
+
+Which of the following are considered to be objects? *
+Select all that apply:
+  object, array
+
+Which of the following operators are used to assign a value to a variable? *
+Select all that apply:
+  =
+
+Which of the following operators are used to compare two values? *
+Select all that apply:
+  ==, ===, !=, <, >=
+
+It is recommended to use === and !== for direct comparison, when possible, because both the value itself and the type of value must match. *:
+  True
+
+Bonus!
+We may not have reviewed the material for this question in class, but you're a smart cookie, and I bet you can figure it out!
+What does the ++ operator do when placed in front of a variable declared with let and assigned a numerical value?
+Example:
+let x = 5
+++x:
+  It increases the value by 1
+
